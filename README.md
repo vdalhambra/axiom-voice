@@ -2,6 +2,8 @@
 
 Rewrite AI-generated drafts so they don't read as AI. A Claude Code skill.
 
+> **Prefer a drop-in bundle with a personal voice-bank template + 30 days of support?** Pick it up at [vdalhambravibe.gumroad.com/l/axiom-voice](https://vdalhambravibe.gumroad.com/l/axiom-voice) — $9 launch price, first 50 buyers. The GitHub version below is the full skill, MIT, free, forever.
+
 ## Before / After
 
 **Input** (default Claude output):
